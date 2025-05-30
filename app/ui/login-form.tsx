@@ -74,7 +74,7 @@ export default function LoginForm() {
                     <ArrowRightIcon className="ml-auto h-5 w-5 text-gray-50" />
                 </Button>
                 <p className="mt-4">
-                    Don't have an account?{" "}
+                    Don&apos;t have an account?{" "}
                     <span>
                         <Link
                             className="text-sky-500 hover:underline"
